@@ -1,0 +1,5 @@
+# `/middleware`
+
+---
+
+Project middleware package.
