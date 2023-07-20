@@ -47,12 +47,6 @@ Project specific API clients for third party APIs.
 
 Config files and config related logic
 
-`/dao` (optional)
-
-> For projects which adopts this pattern
-
-DAO packages.
-
 `/di` (optional)
 
 > For projects which adopts this pattern
@@ -74,10 +68,6 @@ API middlewares
 `/presentaion`
 
 Contains an interface through which clients interact with the application's API.
-
-`/repository` (optional)
-
-> For projects which adopts this pattern
 
 Repository pattern contracts and sources implementations.
 

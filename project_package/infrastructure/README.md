@@ -8,3 +8,4 @@ It also abstracts away implementation details and facilitates caching, logging, 
 * `/logger`
 * `/postgres`
 * `/redis`
+* `/dao`
