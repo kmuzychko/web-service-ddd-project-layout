@@ -31,6 +31,10 @@ Main project package. Contains project essential packages
 
 All API documentation related files
 
+`/application`
+
+Contain application setup logic and Application Service.
+
 `/assets` (optional)
 
 Project related assets e.g. templates, images, etc.
