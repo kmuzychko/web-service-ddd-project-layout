@@ -65,7 +65,7 @@ Contains packages with logic bound to application outbound external communicatio
 
 API middlewares
 
-`/presentaion`
+`/presentation`
 
 Contains an interface through which clients interact with the application's API.
 
